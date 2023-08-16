@@ -34,6 +34,8 @@
 <li>JDBC: Used to establish a connection to the PostgresSQL database.</li>
 <ul>
 
+  <hr>
+  
 <h1>Türkçe</h1>
 
 <h1>Çeşitli Oyunları İçeren Java GUI Projesi</h1>
