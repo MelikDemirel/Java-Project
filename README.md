@@ -32,7 +32,7 @@
 <ul>
 <li>Java Swing: Used for creating the user interface.</li>
 <li>JDBC: Used to establish a connection to the PostgresSQL database.</li>
-<ul>
+</ul>
 
   <hr>
   
@@ -68,4 +68,4 @@
 <ul>
 <li>Java Swing: Kullanıcı arayüzünü oluşturmak için kullanılmıştır.</li>
 <li>JDBC: PostgresSQL veritabanına bağlantı sağlamak için kullanılmıştır.</li>
-<ul>
+</ul>
